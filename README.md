@@ -1,5 +1,5 @@
 # Getting Started with Create React App
 
 # clone the project 
-# install npm 
+# npm install
 # then terminal  npm start 
